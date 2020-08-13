@@ -1,0 +1,5 @@
+.Body-gas{   
+    background: url('../Imagenes/circulos.png') repeat, linear-gradient(to top, #b15010, #53b33b);
+    margin:10px;
+    border-radius: 10px;
+}

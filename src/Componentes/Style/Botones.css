@@ -1,0 +1,14 @@
+.Bordes{
+    border: none;
+    border-radius: 12px;
+}
+.Tamaño{
+    max-height: 145px;
+    max-width: 450px;
+}
+.Titulo{
+    font-size: 23px;
+}
+.Parrafo{
+    font-size: 11px;
+}

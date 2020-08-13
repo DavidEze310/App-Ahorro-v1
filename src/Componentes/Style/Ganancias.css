@@ -1,0 +1,5 @@
+.Body{   
+    background: url('../Imagenes/circulos.png') repeat, linear-gradient(to top, #10b1a9, #53b33b);
+    margin:10px;
+    border-radius: 10px;
+}
